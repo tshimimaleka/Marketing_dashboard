@@ -1,7 +1,7 @@
 
 # Marketing Performance Dashboard – Power BI
 
-Project Overview
+## Project Overview
 
 This project presents a Marketing Performance Dashboard built in Power BI to evaluate advertising efficiency across multiple channels.
 
@@ -17,7 +17,7 @@ Identify top-performing channels and regions
 
 Evaluate device-based revenue contribution
 
-# Key KPIs
+## Key KPIs
 
 Total Campaigns: 581
 
@@ -33,7 +33,7 @@ ROAS: 7.79x
 
 CPA: 10.30
 
-# Dashboard Features
+## Dashboard Features
 
 Revenue by Channel
 Spend by Channel
@@ -42,7 +42,7 @@ Revenue by Region
 Revenue by Discount Usage
 Day Performance Trends
 
-# Tools & Skills Used
+## Tools & Skills Used
 
 Power BI
 
@@ -56,7 +56,7 @@ Data Visualization
 
 Marketing Performance Analysis
 
-# Business Insights
+## Business Insights
 
 Strong ROAS of 7.79 indicates high advertising efficiency.
 
